@@ -52,14 +52,6 @@ A deep learning-based time series forecasting model to predict future stock pric
    - Predicts future stock price using the last 100 days of data.
 
 ---
- 📸 Sample Output
 
-| Actual vs Predicted Prices |
-|----------------------------|
-| ![Prediction Graph](sample_output.png) |
-
----
-
-## 📁 Folder Structure
 
 
