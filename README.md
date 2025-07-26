@@ -44,7 +44,7 @@ A deep learning-based time series forecasting model to predict future stock pric
    - Final Dense layer to output the next predicted price
 
 4. **Model Training**
-   - Trained on 80% of the data, validated on the remaining 20%.
+   - Trained on 70% of the data, validated on the remaining 30%.
 
 5.  **Evaluation & Forecasting**
    - Generates predictions for the validation set.
